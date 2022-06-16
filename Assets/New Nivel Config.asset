@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e9b04b2c072ac4439e8eade7a79b393, type: 3}
+  m_Name: New Nivel Config
+  m_EditorClassIdentifier: 
+  catEnemigos: 3
+  posEnemigos:
+  - {x: 1, y: 0, z: 0}
+  - {x: 3, y: 0, z: 0}
+  - {x: 5, y: 0, z: 0}
+  enemigos:
+  - {fileID: 7553273864246201190, guid: 67ca4055e78a129489533211a5799888, type: 3}
+  - {fileID: 7840455141754023187, guid: ff6c4e298c5f8d14387effa5ca80e3a8, type: 3}
+  - {fileID: 3677460680904243839, guid: b2becc66c6f52e84ca270b5f6e4c0e8f, type: 3}
+  itemDescription:
+  - sdfgsagas
+  - asfgasfgasgasgasd
